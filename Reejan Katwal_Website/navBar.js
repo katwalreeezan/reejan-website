@@ -1,0 +1,1 @@
+document.write("<div id='navContainer'><div id='navBar'><div id='title'>REEJAN KATWAL</div><div id='navButtons'><a class='navLinks' href='index.html#slider'>Home</a><a class='navLinks' href='blog.html'>Blog</a><a class='navLinks' href='research.html'>Research</a><a class='navLinks' href='index.html#contact'>Contact</a></div></div></div>");
